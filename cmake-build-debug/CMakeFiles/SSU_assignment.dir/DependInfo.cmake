@@ -16,7 +16,9 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/Godfrey/CLionProjects/SSU_assignment/OperatingSystem/Assignment2/assignment2.c" "CMakeFiles/SSU_assignment.dir/OperatingSystem/Assignment2/assignment2.c.obj" "gcc" "CMakeFiles/SSU_assignment.dir/OperatingSystem/Assignment2/assignment2.c.obj.d"
   "C:/Users/Godfrey/CLionProjects/SSU_assignment/OperatingSystem/Assignment2/sys_print_reverse.c" "CMakeFiles/SSU_assignment.dir/OperatingSystem/Assignment2/sys_print_reverse.c.obj" "gcc" "CMakeFiles/SSU_assignment.dir/OperatingSystem/Assignment2/sys_print_reverse.c.obj.d"
   "C:/Users/Godfrey/CLionProjects/SSU_assignment/OperatingSystem/Assignment2/sys_print_reverse2.c" "CMakeFiles/SSU_assignment.dir/OperatingSystem/Assignment2/sys_print_reverse2.c.obj" "gcc" "CMakeFiles/SSU_assignment.dir/OperatingSystem/Assignment2/sys_print_reverse2.c.obj.d"
-  "C:/Users/Godfrey/CLionProjects/SSU_assignment/ProgrammingLanguages/calendar.c" "CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/calendar.c.obj" "gcc" "CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/calendar.c.obj.d"
+  "C:/Users/Godfrey/CLionProjects/SSU_assignment/ProgrammingLanguages/Assignment1/calendar.c" "CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment1/calendar.c.obj" "gcc" "CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment1/calendar.c.obj.d"
+  "C:/Users/Godfrey/CLionProjects/SSU_assignment/ProgrammingLanguages/Assignment2/interpreter.c" "CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment2/interpreter.c.obj" "gcc" "CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment2/interpreter.c.obj.d"
+  "C:/Users/Godfrey/CLionProjects/SSU_assignment/ProgrammingLanguages/Assignment5/primeNumber.c" "CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment5/primeNumber.c.obj" "gcc" "CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment5/primeNumber.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

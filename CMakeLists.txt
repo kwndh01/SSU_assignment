@@ -4,7 +4,7 @@ project(SSU_assignment C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(SSU_assignment
-        ProgrammingLanguages/calendar.c
+        ProgrammingLanguages/Assignment1/calendar.c
         OperatingSystem/Assignment1/newps.c
         OperatingSystem/Assignment2/assignment2.c
         OperatingSystem/Assignment2/sys_print_reverse.c
@@ -13,4 +13,6 @@ add_executable(SSU_assignment
         InformationSecurity/Assignment1/VigenereCipher.c
         InformationSecurity/Assignment2/S-AES_Encryption.c
         InformationSecurity/Assignment2/S-AES_Decryption.c
+        ProgrammingLanguages/Assignment2/interpreter.c
+        ProgrammingLanguages/Assignment5/primeNumber.c
 )

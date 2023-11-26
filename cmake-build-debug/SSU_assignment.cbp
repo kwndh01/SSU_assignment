@@ -100,7 +100,13 @@
 		<Unit filename="C:/Users/Godfrey/CLionProjects/SSU_assignment/OperatingSystem/Assignment2/sys_print_reverse2.c">
 			<Option target="SSU_assignment"/>
 		</Unit>
-		<Unit filename="C:/Users/Godfrey/CLionProjects/SSU_assignment/ProgrammingLanguages/calendar.c">
+		<Unit filename="C:/Users/Godfrey/CLionProjects/SSU_assignment/ProgrammingLanguages/Assignment1/calendar.c">
+			<Option target="SSU_assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/Godfrey/CLionProjects/SSU_assignment/ProgrammingLanguages/Assignment2/interpreter.c">
+			<Option target="SSU_assignment"/>
+		</Unit>
+		<Unit filename="C:/Users/Godfrey/CLionProjects/SSU_assignment/ProgrammingLanguages/Assignment5/primeNumber.c">
 			<Option target="SSU_assignment"/>
 		</Unit>
 		<Unit filename="C:/Users/Godfrey/CLionProjects/SSU_assignment/CMakeLists.txt">

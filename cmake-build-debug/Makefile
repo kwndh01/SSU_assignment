@@ -320,29 +320,77 @@ OperatingSystem/Assignment2/sys_print_reverse2.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SSU_assignment.dir\build.make CMakeFiles/SSU_assignment.dir/OperatingSystem/Assignment2/sys_print_reverse2.c.s
 .PHONY : OperatingSystem/Assignment2/sys_print_reverse2.c.s
 
-ProgrammingLanguages/calendar.obj: ProgrammingLanguages/calendar.c.obj
-.PHONY : ProgrammingLanguages/calendar.obj
+ProgrammingLanguages/Assignment1/calendar.obj: ProgrammingLanguages/Assignment1/calendar.c.obj
+.PHONY : ProgrammingLanguages/Assignment1/calendar.obj
 
 # target to build an object file
-ProgrammingLanguages/calendar.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\SSU_assignment.dir\build.make CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/calendar.c.obj
-.PHONY : ProgrammingLanguages/calendar.c.obj
+ProgrammingLanguages/Assignment1/calendar.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SSU_assignment.dir\build.make CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment1/calendar.c.obj
+.PHONY : ProgrammingLanguages/Assignment1/calendar.c.obj
 
-ProgrammingLanguages/calendar.i: ProgrammingLanguages/calendar.c.i
-.PHONY : ProgrammingLanguages/calendar.i
+ProgrammingLanguages/Assignment1/calendar.i: ProgrammingLanguages/Assignment1/calendar.c.i
+.PHONY : ProgrammingLanguages/Assignment1/calendar.i
 
 # target to preprocess a source file
-ProgrammingLanguages/calendar.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\SSU_assignment.dir\build.make CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/calendar.c.i
-.PHONY : ProgrammingLanguages/calendar.c.i
+ProgrammingLanguages/Assignment1/calendar.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SSU_assignment.dir\build.make CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment1/calendar.c.i
+.PHONY : ProgrammingLanguages/Assignment1/calendar.c.i
 
-ProgrammingLanguages/calendar.s: ProgrammingLanguages/calendar.c.s
-.PHONY : ProgrammingLanguages/calendar.s
+ProgrammingLanguages/Assignment1/calendar.s: ProgrammingLanguages/Assignment1/calendar.c.s
+.PHONY : ProgrammingLanguages/Assignment1/calendar.s
 
 # target to generate assembly for a file
-ProgrammingLanguages/calendar.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\SSU_assignment.dir\build.make CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/calendar.c.s
-.PHONY : ProgrammingLanguages/calendar.c.s
+ProgrammingLanguages/Assignment1/calendar.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SSU_assignment.dir\build.make CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment1/calendar.c.s
+.PHONY : ProgrammingLanguages/Assignment1/calendar.c.s
+
+ProgrammingLanguages/Assignment2/interpreter.obj: ProgrammingLanguages/Assignment2/interpreter.c.obj
+.PHONY : ProgrammingLanguages/Assignment2/interpreter.obj
+
+# target to build an object file
+ProgrammingLanguages/Assignment2/interpreter.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SSU_assignment.dir\build.make CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment2/interpreter.c.obj
+.PHONY : ProgrammingLanguages/Assignment2/interpreter.c.obj
+
+ProgrammingLanguages/Assignment2/interpreter.i: ProgrammingLanguages/Assignment2/interpreter.c.i
+.PHONY : ProgrammingLanguages/Assignment2/interpreter.i
+
+# target to preprocess a source file
+ProgrammingLanguages/Assignment2/interpreter.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SSU_assignment.dir\build.make CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment2/interpreter.c.i
+.PHONY : ProgrammingLanguages/Assignment2/interpreter.c.i
+
+ProgrammingLanguages/Assignment2/interpreter.s: ProgrammingLanguages/Assignment2/interpreter.c.s
+.PHONY : ProgrammingLanguages/Assignment2/interpreter.s
+
+# target to generate assembly for a file
+ProgrammingLanguages/Assignment2/interpreter.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SSU_assignment.dir\build.make CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment2/interpreter.c.s
+.PHONY : ProgrammingLanguages/Assignment2/interpreter.c.s
+
+ProgrammingLanguages/Assignment5/primeNumber.obj: ProgrammingLanguages/Assignment5/primeNumber.c.obj
+.PHONY : ProgrammingLanguages/Assignment5/primeNumber.obj
+
+# target to build an object file
+ProgrammingLanguages/Assignment5/primeNumber.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SSU_assignment.dir\build.make CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment5/primeNumber.c.obj
+.PHONY : ProgrammingLanguages/Assignment5/primeNumber.c.obj
+
+ProgrammingLanguages/Assignment5/primeNumber.i: ProgrammingLanguages/Assignment5/primeNumber.c.i
+.PHONY : ProgrammingLanguages/Assignment5/primeNumber.i
+
+# target to preprocess a source file
+ProgrammingLanguages/Assignment5/primeNumber.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SSU_assignment.dir\build.make CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment5/primeNumber.c.i
+.PHONY : ProgrammingLanguages/Assignment5/primeNumber.c.i
+
+ProgrammingLanguages/Assignment5/primeNumber.s: ProgrammingLanguages/Assignment5/primeNumber.c.s
+.PHONY : ProgrammingLanguages/Assignment5/primeNumber.s
+
+# target to generate assembly for a file
+ProgrammingLanguages/Assignment5/primeNumber.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\SSU_assignment.dir\build.make CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment5/primeNumber.c.s
+.PHONY : ProgrammingLanguages/Assignment5/primeNumber.c.s
 
 # Help Target
 help:
@@ -377,9 +425,15 @@ help:
 	@echo ... OperatingSystem/Assignment2/sys_print_reverse2.obj
 	@echo ... OperatingSystem/Assignment2/sys_print_reverse2.i
 	@echo ... OperatingSystem/Assignment2/sys_print_reverse2.s
-	@echo ... ProgrammingLanguages/calendar.obj
-	@echo ... ProgrammingLanguages/calendar.i
-	@echo ... ProgrammingLanguages/calendar.s
+	@echo ... ProgrammingLanguages/Assignment1/calendar.obj
+	@echo ... ProgrammingLanguages/Assignment1/calendar.i
+	@echo ... ProgrammingLanguages/Assignment1/calendar.s
+	@echo ... ProgrammingLanguages/Assignment2/interpreter.obj
+	@echo ... ProgrammingLanguages/Assignment2/interpreter.i
+	@echo ... ProgrammingLanguages/Assignment2/interpreter.s
+	@echo ... ProgrammingLanguages/Assignment5/primeNumber.obj
+	@echo ... ProgrammingLanguages/Assignment5/primeNumber.i
+	@echo ... ProgrammingLanguages/Assignment5/primeNumber.s
 .PHONY : help
 
 

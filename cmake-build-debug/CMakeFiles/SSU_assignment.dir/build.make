@@ -68,19 +68,19 @@ include CMakeFiles/SSU_assignment.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/SSU_assignment.dir/flags.make
 
-CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/calendar.c.obj: CMakeFiles/SSU_assignment.dir/flags.make
-CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/calendar.c.obj: C:/Users/Godfrey/CLionProjects/SSU_assignment/ProgrammingLanguages/calendar.c
-CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/calendar.c.obj: CMakeFiles/SSU_assignment.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Godfrey\CLionProjects\SSU_assignment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/calendar.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/calendar.c.obj -MF CMakeFiles\SSU_assignment.dir\ProgrammingLanguages\calendar.c.obj.d -o CMakeFiles\SSU_assignment.dir\ProgrammingLanguages\calendar.c.obj -c C:\Users\Godfrey\CLionProjects\SSU_assignment\ProgrammingLanguages\calendar.c
+CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment1/calendar.c.obj: CMakeFiles/SSU_assignment.dir/flags.make
+CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment1/calendar.c.obj: C:/Users/Godfrey/CLionProjects/SSU_assignment/ProgrammingLanguages/Assignment1/calendar.c
+CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment1/calendar.c.obj: CMakeFiles/SSU_assignment.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Godfrey\CLionProjects\SSU_assignment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment1/calendar.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment1/calendar.c.obj -MF CMakeFiles\SSU_assignment.dir\ProgrammingLanguages\Assignment1\calendar.c.obj.d -o CMakeFiles\SSU_assignment.dir\ProgrammingLanguages\Assignment1\calendar.c.obj -c C:\Users\Godfrey\CLionProjects\SSU_assignment\ProgrammingLanguages\Assignment1\calendar.c
 
-CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/calendar.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/calendar.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Godfrey\CLionProjects\SSU_assignment\ProgrammingLanguages\calendar.c > CMakeFiles\SSU_assignment.dir\ProgrammingLanguages\calendar.c.i
+CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment1/calendar.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment1/calendar.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Godfrey\CLionProjects\SSU_assignment\ProgrammingLanguages\Assignment1\calendar.c > CMakeFiles\SSU_assignment.dir\ProgrammingLanguages\Assignment1\calendar.c.i
 
-CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/calendar.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/calendar.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Godfrey\CLionProjects\SSU_assignment\ProgrammingLanguages\calendar.c -o CMakeFiles\SSU_assignment.dir\ProgrammingLanguages\calendar.c.s
+CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment1/calendar.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment1/calendar.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Godfrey\CLionProjects\SSU_assignment\ProgrammingLanguages\Assignment1\calendar.c -o CMakeFiles\SSU_assignment.dir\ProgrammingLanguages\Assignment1\calendar.c.s
 
 CMakeFiles/SSU_assignment.dir/OperatingSystem/Assignment1/newps.c.obj: CMakeFiles/SSU_assignment.dir/flags.make
 CMakeFiles/SSU_assignment.dir/OperatingSystem/Assignment1/newps.c.obj: C:/Users/Godfrey/CLionProjects/SSU_assignment/OperatingSystem/Assignment1/newps.c
@@ -194,9 +194,37 @@ CMakeFiles/SSU_assignment.dir/InformationSecurity/Assignment2/S-AES_Decryption.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SSU_assignment.dir/InformationSecurity/Assignment2/S-AES_Decryption.c.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Godfrey\CLionProjects\SSU_assignment\InformationSecurity\Assignment2\S-AES_Decryption.c -o CMakeFiles\SSU_assignment.dir\InformationSecurity\Assignment2\S-AES_Decryption.c.s
 
+CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment2/interpreter.c.obj: CMakeFiles/SSU_assignment.dir/flags.make
+CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment2/interpreter.c.obj: C:/Users/Godfrey/CLionProjects/SSU_assignment/ProgrammingLanguages/Assignment2/interpreter.c
+CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment2/interpreter.c.obj: CMakeFiles/SSU_assignment.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Godfrey\CLionProjects\SSU_assignment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment2/interpreter.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment2/interpreter.c.obj -MF CMakeFiles\SSU_assignment.dir\ProgrammingLanguages\Assignment2\interpreter.c.obj.d -o CMakeFiles\SSU_assignment.dir\ProgrammingLanguages\Assignment2\interpreter.c.obj -c C:\Users\Godfrey\CLionProjects\SSU_assignment\ProgrammingLanguages\Assignment2\interpreter.c
+
+CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment2/interpreter.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment2/interpreter.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Godfrey\CLionProjects\SSU_assignment\ProgrammingLanguages\Assignment2\interpreter.c > CMakeFiles\SSU_assignment.dir\ProgrammingLanguages\Assignment2\interpreter.c.i
+
+CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment2/interpreter.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment2/interpreter.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Godfrey\CLionProjects\SSU_assignment\ProgrammingLanguages\Assignment2\interpreter.c -o CMakeFiles\SSU_assignment.dir\ProgrammingLanguages\Assignment2\interpreter.c.s
+
+CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment5/primeNumber.c.obj: CMakeFiles/SSU_assignment.dir/flags.make
+CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment5/primeNumber.c.obj: C:/Users/Godfrey/CLionProjects/SSU_assignment/ProgrammingLanguages/Assignment5/primeNumber.c
+CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment5/primeNumber.c.obj: CMakeFiles/SSU_assignment.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Godfrey\CLionProjects\SSU_assignment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment5/primeNumber.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment5/primeNumber.c.obj -MF CMakeFiles\SSU_assignment.dir\ProgrammingLanguages\Assignment5\primeNumber.c.obj.d -o CMakeFiles\SSU_assignment.dir\ProgrammingLanguages\Assignment5\primeNumber.c.obj -c C:\Users\Godfrey\CLionProjects\SSU_assignment\ProgrammingLanguages\Assignment5\primeNumber.c
+
+CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment5/primeNumber.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment5/primeNumber.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\Godfrey\CLionProjects\SSU_assignment\ProgrammingLanguages\Assignment5\primeNumber.c > CMakeFiles\SSU_assignment.dir\ProgrammingLanguages\Assignment5\primeNumber.c.i
+
+CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment5/primeNumber.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment5/primeNumber.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\Godfrey\CLionProjects\SSU_assignment\ProgrammingLanguages\Assignment5\primeNumber.c -o CMakeFiles\SSU_assignment.dir\ProgrammingLanguages\Assignment5\primeNumber.c.s
+
 # Object files for target SSU_assignment
 SSU_assignment_OBJECTS = \
-"CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/calendar.c.obj" \
+"CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment1/calendar.c.obj" \
 "CMakeFiles/SSU_assignment.dir/OperatingSystem/Assignment1/newps.c.obj" \
 "CMakeFiles/SSU_assignment.dir/OperatingSystem/Assignment2/assignment2.c.obj" \
 "CMakeFiles/SSU_assignment.dir/OperatingSystem/Assignment2/sys_print_reverse.c.obj" \
@@ -204,12 +232,14 @@ SSU_assignment_OBJECTS = \
 "CMakeFiles/SSU_assignment.dir/AlgorithmRE/Assignment3/20212211_3.c.obj" \
 "CMakeFiles/SSU_assignment.dir/InformationSecurity/Assignment1/VigenereCipher.c.obj" \
 "CMakeFiles/SSU_assignment.dir/InformationSecurity/Assignment2/S-AES_Encryption.c.obj" \
-"CMakeFiles/SSU_assignment.dir/InformationSecurity/Assignment2/S-AES_Decryption.c.obj"
+"CMakeFiles/SSU_assignment.dir/InformationSecurity/Assignment2/S-AES_Decryption.c.obj" \
+"CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment2/interpreter.c.obj" \
+"CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment5/primeNumber.c.obj"
 
 # External object files for target SSU_assignment
 SSU_assignment_EXTERNAL_OBJECTS =
 
-SSU_assignment.exe: CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/calendar.c.obj
+SSU_assignment.exe: CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment1/calendar.c.obj
 SSU_assignment.exe: CMakeFiles/SSU_assignment.dir/OperatingSystem/Assignment1/newps.c.obj
 SSU_assignment.exe: CMakeFiles/SSU_assignment.dir/OperatingSystem/Assignment2/assignment2.c.obj
 SSU_assignment.exe: CMakeFiles/SSU_assignment.dir/OperatingSystem/Assignment2/sys_print_reverse.c.obj
@@ -218,11 +248,13 @@ SSU_assignment.exe: CMakeFiles/SSU_assignment.dir/AlgorithmRE/Assignment3/202122
 SSU_assignment.exe: CMakeFiles/SSU_assignment.dir/InformationSecurity/Assignment1/VigenereCipher.c.obj
 SSU_assignment.exe: CMakeFiles/SSU_assignment.dir/InformationSecurity/Assignment2/S-AES_Encryption.c.obj
 SSU_assignment.exe: CMakeFiles/SSU_assignment.dir/InformationSecurity/Assignment2/S-AES_Decryption.c.obj
+SSU_assignment.exe: CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment2/interpreter.c.obj
+SSU_assignment.exe: CMakeFiles/SSU_assignment.dir/ProgrammingLanguages/Assignment5/primeNumber.c.obj
 SSU_assignment.exe: CMakeFiles/SSU_assignment.dir/build.make
 SSU_assignment.exe: CMakeFiles/SSU_assignment.dir/linkLibs.rsp
 SSU_assignment.exe: CMakeFiles/SSU_assignment.dir/objects1.rsp
 SSU_assignment.exe: CMakeFiles/SSU_assignment.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Godfrey\CLionProjects\SSU_assignment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking C executable SSU_assignment.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Godfrey\CLionProjects\SSU_assignment\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking C executable SSU_assignment.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\SSU_assignment.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
