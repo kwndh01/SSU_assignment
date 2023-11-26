@@ -1,0 +1,25 @@
+Assignment #2 - Conventional Cryptography Systems, Basic Mathematics for Cryptography
+
+IMPORTANT: The submitted codes will be checked for plagiarism. You will need to fully acknowledge the use of other people's works by citing them as references. Otherwise, you will get a zero on the assignment.
+
+Total: 10 points
+
+Q1. (1 point) Secure Hash Algorithm (SHA) is one kind of popular hash function, where SHA-256, SHA-384, and SHA-512 algorithms can produce hash values with 256, 384, and 512 bits in length, respectively. Please explain why we usually say SHA-256, SHA-384, and SHA-512 algorithms are designed to match the security of AES with 128, 192, and 256 bits, respectively.
+
+Q2. (1 point) Using Euclid’s gcd theorem, determine the following. Show the complete process.
+(a) gcd(24140,16762)
+
+Q3. (2 points) Using the "extended" Euclidean algorithm, find the multiplicative inverse of the following. Show the complete process with all columns. If you used a programming code, include the code and the output.
+(a) 1234 mod 4321
+(b) 550 mod 1769
+
+Q4. (4 points: 2 points for encryption and 2 points for decryption)
+Write a programming code that can encrypt and decrypt using S-AES (Simplified AES) [1-4]. Test data: A binary plaintext of 0110 1111 0110 1011 encrypted with a binary key of 1010 0111 0011 1011 should give a binary ciphertext of 0000 0111 0011 1000. Decryption should work correspondingly. Provide the code and the execution proof. You will need to look up some additional information, such as the Galois field, for your implementation.
+
+Q5. (2 points) Implement a differential cryptanalysis attack on 1-round S-AES. Explain the logic behind the attack. Show all steps.
+
+Reference:
+[1] Musa, A., Schaefer, E., and Wedig, S. 2010. “A Simplified AES Algorithm and Its Linear and Differential Cryptanalysis.” Cryptologia 27(12), 148 – 177. URL: Full Paper (Section 5): http://materias.fi.uba.ar/6669/docs/aes/rijn_simplificado.pdf
+[2] Appendix 5B of Textbook: Simplified AES
+[3] Simple Version: https://www.nku.edu/~christensen/simplified%20AES.pdf
+[4] An Example: https://sandilands.info/sgordon/teaching/reports/simplified-aes-example.pdf
